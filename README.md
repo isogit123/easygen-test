@@ -2,14 +2,14 @@
 1. Clone the repo.
 2. Run a MongoDB instance. You can use Docker for that. The API uses the default port (27017) to connect to the database.
 3. Using a terminal, go to the backend and frontend directories and run 
-```
-npm install
-```
-then
-```
-npm start
-```
-in each directory.
+   ```
+   npm install
+   ```
+   then
+   ```
+   npm start
+   ```
+   in each directory.
 
 4. Open a browser and go to ```localhost:8000/signup``` This is the sign up page.
    
